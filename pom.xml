@@ -165,7 +165,7 @@
                 <id>generate-javadoc</id>
                 <phase>package</phase>
                 <goals>
-                  <goal>jar</goal>
+                  <goal>war</goal>
                 </goals>
               </execution>
             </executions>
@@ -180,7 +180,7 @@
                 <id>generate-sources</id>
                 <phase>package</phase>
                 <goals>
-                  <goal>jar</goal>
+                  <goal>war</goal>
                 </goals>
               </execution>
             </executions>
