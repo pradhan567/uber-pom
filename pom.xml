@@ -15,6 +15,11 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <timestamp>${maven.build.timestamp}</timestamp>
     <maven.build.timestamp.format>yyyyMMddHHmm</maven.build.timestamp.format>
+          
+    <sonar.projectKey>pradhan567_uber-pom</sonar.projectKey>
+    <sonar.organization>pradhan567</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>f838a684fd584f1796faf66acd81e264dfb59a74</sonar.login>
   </properties>
 
   <url>https://github.com/raydac/uber-pom</url>
