@@ -133,3 +133,7 @@ By default the plugin merges all hierarchy levels, but you can restrict the numb
 </configuration>
 ```
 In the example, only two upper levels will be involved into merging.
+
+
+Regards,
+Manas Ranjan Pradhan
